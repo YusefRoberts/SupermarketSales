@@ -1,4 +1,4 @@
-# SupermarketSales
+# SupermarketSalesAnalysis
 
 Supermarket Sales Analysis
 
